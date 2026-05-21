@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/is-a-dev/register/main/schemas/domain.json",
+  "description": "CryptoShield - Token Safety Scanner",
+  "repo": "https://github.com/sidqiall24/Cryptoshield",
+  "owner": {
+    "username": "sidqiall24",
+    "email": "sidqialmaidah68@gmail.com"
+  },
+  "record": {
+    "CNAME": "DEPLOYMENT_ID_KAMU.vercel.app"
+  }
+}
